@@ -4,6 +4,10 @@ A simple and interactive web application that predicts the **calories burnt** af
 
 ---
 
+Live :- https://calories-burn-predictor-uwxq.onrender.com
+
+---
+
 ## 🔥 Features
 
 - Predicts calories burnt based on user input
@@ -40,6 +44,7 @@ The model takes the following inputs:
 - **Backend**: Flask
 - **Frontend**: HTML + CSS
 - **Model Serialization**: `joblib`
+- **Deployment**: Render
 
 ---
 
